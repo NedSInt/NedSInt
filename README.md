@@ -18,7 +18,7 @@
   <img align:"center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </div><br/>
 
-Apaixonado em tecnologia, estudande de Sistemas de infromação e completamente focado em resolver dificuldades para outras pessoas através da programação!
+Apaixonado em tecnologia, estudante de Sistemas de informação e completamente focado em resolver dificuldades para outras pessoas através da programação!
 
 #### Qualquer dúvida ou caso queira entrar em contato: pachecojhonatan12@gmail.com
 
