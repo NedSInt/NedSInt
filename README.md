@@ -18,7 +18,16 @@
   <img align:"center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </div><br/>
 
-Apaixonado em tecnologia, estudante de Sistemas de informação e completamente focado em resolver dificuldades para outras pessoas através da programação!
+Atualmente cursando Sistemas de Informação no CEFET-RJ, tenho 2 anos de experiência profissional, com foco nas tecnologias JavaScript, Node.js e Vue.js. Meu objetivo é criar soluções eficientes e escaláveis, sempre priorizando a experiência do usuário.
+
+Aqui no GitHub, você vai encontrar projetos que refletem minha paixão por desenvolvimento web e inovação. Gosto de explorar novas ferramentas e linguagens, e estou sempre buscando maneiras de aprimorar minhas habilidades.
+
+🚀 Minhas principais áreas de atuação:
+
+Desenvolvimento de APIs e sistemas back-end com Node.js
+Criação de interfaces dinâmicas e responsivas com Vue.js
+Arquitetura de software escalável e otimizado
+Sinta-se à vontade para explorar meus repositórios e colaborar em projetos!
 
 #### Qualquer dúvida ou caso queira entrar em contato: pachecojhonatan12@gmail.com
 
